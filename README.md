@@ -49,6 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masoom007&show_icons=true&locale=en&layout=compact" alt="masoom007" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoom007&" alt="masoom007" />
-</p>
