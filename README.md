@@ -14,7 +14,7 @@
     🔭 I’m currently working on a <strong>Chat application</strong><br>
     💬 Ask me about <strong>Android and DSA</strong><br>
     📫 How to reach me: <strong>masoom.kcis@gmail.com</strong><br>
-    ⚡ Fun fact: <strong>I am not as innocent as my name</strong>
+    ⚡ Fun fact: <strong>I am not innocent as my name</strong>
   </samp>
 </p>
 
