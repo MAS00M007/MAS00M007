@@ -16,14 +16,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```yaml
-name: Md Masoom
-role: DevOps Engineer & Full-Stack Developer
-location: India
-interests: [DevOps, Cloud Computing, Full-Stack Development, Open Source]
-current_focus: Building scalable SaaS solutions with complete observability
-learning: Kubernetes at scale, Helm charts, AI Integration
-```
+    name: Md Masoom
+    role: DevOps Engineer & Full-Stack Developer
+    location: India
+    interests: [DevOps, Cloud Computing, Full-Stack Development, Open Source]
+    current_focus: Building scalable SaaS solutions with complete observability
+    learning: Kubernetes at scale, Helm charts, AI Integration
 
 - 🔭 Currently working on **SaaS tools with complete monitoring, CI/CD, and observability**
 - 🌱 Learning **Kubernetes at scale**, **Helm charts**, and **AI Integration**
@@ -32,8 +30,6 @@ learning: Kubernetes at scale, Helm charts, AI Integration
 - 💬 Ask me about **DevOps**, **Cloud-Native**, **React**, **Node.js**
 - 📫 Reach me at **masoom.kcis@gmail.com**
 - ⚡ Fun fact: I love automating repetitive tasks and building efficient systems
-
----
 
 ## 🛠️ Tech Stack
 
