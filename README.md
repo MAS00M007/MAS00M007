@@ -97,7 +97,7 @@
 
 ---
 
-## 💡 Philosophy & Approach
+## 💡 Philosophy
 
 <div align="center">
   <table>
