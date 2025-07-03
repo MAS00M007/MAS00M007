@@ -19,8 +19,10 @@
     name: Md Masoom
     role: DevOps Engineer & Full-Stack Developer
     location: India
-    interests: [DevOps, Cloud Computing, Full-Stack Development, Open Source]
-    current_focus: Building scalable SaaS solutions with complete observability
+    interests: [DevOps, Cloud Computing, Full-Stack 
+    Development, Open Source]
+    current_focus: Building scalable SaaS solutions 
+    with complete observability
     learning: Kubernetes at scale, Helm charts, AI Integration
 
 - 🔭 Currently working on **SaaS tools with complete monitoring, CI/CD, and observability**
@@ -28,7 +30,7 @@
 - 👨‍💻 Building **Android apps** with **Java**
 - 🌩️ Exploring **AWS**, **Terraform**, **Helm**, and **OpenShift**
 - 💬 Ask me about **DevOps**, **Cloud-Native**, **React**, **Node.js**
-- 📫 Reach me at **masoom.kcis@gmail.com**
+- 📫 Reach me at [**masoom.kcis@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=masoom.kcis@gmail.com)
 - ⚡ Fun fact: I love automating repetitive tasks and building efficient systems
 
 ## 🛠️ Tech Stack
@@ -88,7 +90,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masoom-3084aa25a)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAS00M007)
-[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masoom.kcis@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=masoom.kcis@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://devops-masoom.netlify.app/)
 
 </div>
